@@ -2,6 +2,6 @@
 Repositorio de prueba para curso de Gitgub para principiantes
 
 
-# Autores
+## Autor
 
 * Raúl Sánchez Rico
